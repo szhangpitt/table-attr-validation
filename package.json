@@ -1,0 +1,31 @@
+{
+  "name": "table-attr-validation",
+  "version": "0.0.1",
+  "description": "table attribute validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szhangpitt/table-attr-validation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szhangpitt/table-attr-validation/issues"
+  },
+  "homepage": "https://github.com/szhangpitt/table-attr-validation#readme",
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "debug": "~2.6.1",
+    "mocha": "~3.2.0"
+  },
+  "dependencies": {
+    "lodash.assign": "~4.2.0",
+    "lodash.assignwith": "~4.2.0",
+    "lodash.get": "~4.4.2",
+    "lodash.merge": "~4.6.0"
+  }
+}
